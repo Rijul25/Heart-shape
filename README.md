@@ -5,7 +5,7 @@ Creating heart shape in python using turtle.
 
 You can use functions like turtle.forward(...) and turtle.left(...) which can move the turtle around.
 - How to run 
-1.Download the code
-2. Run python3 heart.py
+- Download the code
+- Run python3 heart.py
 
 ![](ezgif.com-video-to-gif.gif)
